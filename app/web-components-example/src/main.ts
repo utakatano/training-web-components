@@ -1,4 +1,5 @@
 import './components/myComponent'
+import './components/myButton'
 import './style.css'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
